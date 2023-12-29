@@ -60,4 +60,4 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Francisco Maia](https://xico26.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Xico26)
+- Frontend Mentor - [@Xico26](https://www.frontendmentor.io/profile/Xico26)
